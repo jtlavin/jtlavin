@@ -1,6 +1,6 @@
 ### Hi there, I'm Jose 👋
 
-I'm a data engineer with a background in economics. I mainly write code with Python, SQL and currently I am learning JavaScript.
+I'm a data engineer with a background in economics. I mainly write code with Python, SQL.
 
 Here is some of the stuff I enjoy doing:
 * Designing machine learning systems
