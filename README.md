@@ -1,8 +1,3 @@
 ### Hi there, I'm Jose 👋
 
-I'm a Data Scientist/Data Engineer with a background in economics. I mainly write code with Python, SQL and I'm currently learning C++.
-
-Here is some of the stuff I enjoy doing:
-* Coding things that are useful to others
-* Understand the fundamentals on different fields
-* Designing machine learning systems
+I'm a Data Scientist/Data Engineer with a background in economics. I mainly write code with Python, SQL and I'm currently working at a Spanish fintech company called [Aplazame](https://aplazame.com/negocios/?utm_term=aplazame&utm_campaign=Brand&utm_source=adwords&utm_medium=ppc&hsa_acc=9670018944&hsa_cam=9120158539&hsa_grp=97863502931&hsa_ad=426848258810&hsa_src=g&hsa_tgt=kwd-399733515044&hsa_kw=aplazame&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8tB_Dwcz8M6Ek1vpnU1MZfOFQr6b5arHoM8tZXXjMmNfz5JVmlJ-JYaAhzjEALw_wcB), where I focus on solving real-time credit risk problems.
